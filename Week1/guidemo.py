@@ -1,0 +1,17 @@
+import tkinter as tk 
+r = tk.Tk() 
+r.title('GUI demo for tkinter working') 
+def dispmessage():
+    w = tk.Label(r, text= 'Secret Message',width= '15', height='1') 
+    w.place(x=910,y=375) 
+c1 = tk.Canvas(r,width=1920,height=850)
+c1.grid(row=0)
+button1 = tk.Button(r, text='Display Message', width=25, command= dispmessage).grid(row=0)
+#button2 = tk.Button(r, text='Close This Box', width=25, command=r.destroy)
+#w = tk.Label(r, text='Hello World') 
+#w.pack() 
+c = tk.Canvas(r,width=1920,height=230)
+c.grid()
+#button1.grid() 
+#button2.grid() 
+r.mainloop() 
