@@ -1,0 +1,400 @@
+Laboratory where test conducted: JOHNSON LABS
+First Name: JUNIOR
+Last Name: SAMPLES
+Date of Birth: 01/10/1948
+Patient Age: 53 Y
+Gender:Male
+Notes: ******
+Comments: ****************************************************************************
+
+Condition: NON FASTING
+
+Report: CHEM
+Header: ——-* CHEMISTRY *——–
+
+Parameter: TotalProtein
+Value    : 7 gm/dl
+Normal   : 5.9–8.4
+
+Parameter: Albumin
+Value    : 3 gm/dl
+Normal   : 3.2–5.2
+
+Parameter: Globulin
+Value    : 3 gm/dL
+Normal   : 1.7–3.7
+
+Parameter: A/G Ratio
+Value    : 1 
+Normal   : 1.1–2.9
+
+Parameter: Glucose
+Value    : 2 mg/dL
+Normal   : 70–99
+
+Parameter: Sodium
+Value    : 1 mmol/L
+Normal   : 133–145
+
+Parameter: Potassium
+Value    : 4 mmol/L
+Normal   : 3.3–5.3
+
+Parameter: Chloride
+Value    : 9 mmol/L
+Normal   : 96–108
+
+Parameter: CO2
+Value    : 2 mmol/L
+Normal   : 21–29
+
+Parameter: BUN
+Value    : 1 mg/dl
+Normal   : 7–25
+
+Parameter: Creatinine
+Value    : 1 mg/dl
+Normal   : 0.6–1.3
+
+Parameter: e–GFR
+Value    : 7 
+Normal   : >60 mL/min/1.73m2
+
+Parameter: BUN/CreatRatio
+Value    : 1 
+Normal   : 10–28
+
+Parameter: Calcium
+Value    : 8 mg/dl
+Normal   : 8.4–10.4
+
+Parameter: UricAcid
+Value    : 6 mg/dl
+Normal   : 2.4–7.0
+
+Parameter: Iron
+Value    : 8 mcg/dl
+Normal   : 30–160
+
+Parameter: Bilirubin,Total
+Value    : 0 mg/dl
+Normal   : 0.1–1.0
+
+Parameter: LDH
+Value    : 1 u/l
+Normal   : 94–250
+
+Parameter: AlkPhos
+Value    : 6 u/l
+Normal   : 39–120
+
+Parameter: AST (SGOT)
+Value    : 3 u/l
+Normal   : 0–37
+
+Parameter: Phosphorous
+Value    : 2 mg/dl
+Normal   : 2.6–4.5
+
+Parameter: ALT (SGPT)
+Value    : 5 u/L
+Normal   : 0–40
+
+Parameter: hG–GTP
+Value    : 3 u/L
+Normal   : 7–51
+
+Comments: ****************************************************************************
+
+Condition: GFR (GlomerularFiltrationRate) calculation utilizes the MDRD formula
+Condition: (Modification of DietinRenalDiseaseStudyGroup)and assumes a normal
+Condition: adult body surface area of 1.73. If the patient isAfricanAmerican
+Condition: multiply result reported by1.21.(Ref.NationalKidneyDiseaseEduca.
+Condition: Program.)
+Condition:  *****Male/Female reference range: >60 mL/min/1.73 m2 *****
+Condition: Note: A calculated GFR of <60 mL suggests chronic kidney disease, but
+Condition: only if found consistently over at least 3 months. A calculated
+Condition: result of <15 mL is consistent with renal failure.
+
+Report: CARD
+Header: -* CARDIOVASCULAR/LIPIDS *–
+
+Parameter: Cholesterol
+Value    : 1 mg/dl
+Normal   : <200
+
+Parameter: Triglycerides
+Value    : 7 mg/dl
+Normal   : <151
+
+Parameter: HDL CHOL.,DIRECT
+Value    : 3 mg/dl
+Normal   : >40
+
+Parameter: HDL as% of Cholesterol
+Value    : 3 %
+Normal   : 
+
+Comments: Range/Evaluation: (>25) BELOW AVERAGE RISK
+Parameter: Chol/HDL Ratio
+Value    : 3 
+Normal   : 
+
+Comments: Range/Evaluation: (<4.2) BELOW AVERAGE RISK
+Parameter: LDL/HDL Ratio
+Value    : 1 
+Normal   : 0–3.55
+
+Parameter: LDL Cholesterol
+Value    : 7 
+Normal   : <100
+
+Parameter: VLDL, CALCULATED
+Value    : 1 mg/dl
+Normal   : 7–32
+
+
+
+Report: HEMA
+Header: ——* HEMATOLOGY *——–
+
+Parameter: WBC
+Value    : 6 x10(3)/uL
+Normal   : 3.40–11.80
+
+Parameter: RBC
+Value    : 4 x10(6)/uL
+Normal   : 4.20–5.90
+
+Parameter: HGB
+Value    : 1 gm/dL
+Normal   : 12.3–17.0
+
+Parameter: HCT
+Value    : 3 %
+Normal   : 39.3–52.5
+
+Parameter: MCV
+Value    : 8 fL
+Normal   : 80.0–100.0
+
+Parameter: MCH
+Value    : 2 pg
+Normal   : 25.0–34.1
+
+Parameter: MCHC
+Value    : 3 gm/dL
+Normal   : 29.0–35.0
+
+Parameter: RDW
+Value    : 1 %
+Normal   : 10.9–16.9
+
+Parameter: POLYS
+Value    : 5 %
+Normal   : 36.0–78.0
+
+Parameter: POLYS, ABS. COUNT
+Value    : 3 x10(3)/uL
+Normal   : 1.22–9.20
+
+Parameter: LYMPHS
+Value    : 3 %
+Normal   : 12.0–48.0
+
+Parameter: LYMPHS, ABS. COUNT
+Value    : 2 x10(3)/uL
+Normal   : 0.41–5.66
+
+Parameter: MONOS
+Value    : 7 %
+Normal   : 0.0–13.0
+
+Parameter: MONOS, ABS. COUNT
+Value    : 0 x10(3)/uL
+Normal   : 0.17–1.42
+
+Parameter: EOS
+Value    : 2 %
+Normal   : 0.0–8.0
+
+Parameter: EOS, ABS. COUNT
+Value    : 0 x10(3)/uL
+Normal   : 0.03–0.94
+
+Parameter: BASOS
+Value    : 0 %
+Normal   : 0.0–2.0
+
+Parameter: BASOS, ABS. COUNT
+Value    : 0 x10(3)/uL
+Normal   : 0.00–0.24
+
+Parameter: IMMATURE GRANULOCYTES
+Value    : 0 %
+Normal   : 0.0–0.5
+
+Parameter: PLATELET COUNT
+Value    : 1 x10(3)/uL
+Normal   : 144–400
+
+Parameter: MPV
+Value    : 1 fL
+Normal   : 8.2–11.9
+
+
+
+Report: URIN
+Header: ——* URINALYSIS *——–
+
+Parameter: Color
+Value    : Y 
+Normal   : YELLOW, STRAW, AMBER
+
+Parameter: Character
+Value    : C 
+Normal   : CLEAR
+
+Parameter: SpecificGravity URN
+Value    : 1 
+Normal   : 1.003–1.030
+
+Parameter: pH Urine
+Value    : 5 
+Normal   : 5.0–8.0
+
+Parameter: Protein,Urine
+Value    : N 
+Normal   : NEGATIVE
+
+Parameter: Glucose,Urine
+Value    : 3 
+Normal   : NEGATIVE
+
+Parameter: Ketone,Urine
+Value    : N 
+Normal   : NEGATIVE
+
+Parameter: UrobilinogenUrine
+Value    : 1 Units
+Normal   : 0.2–1.0
+
+Parameter: Bilirubin,Urine
+Value    : N 
+Normal   : NEGATIVE
+
+Parameter: Blood,Urine
+Value    : N 
+Normal   : NEGATIVE
+
+Parameter: NitritesUrine
+Value    : N 
+Normal   : NEGATIVE
+
+Parameter: LeukocyteEsterase
+Value    : N 
+Normal   : NEGATIVE
+
+Parameter: CrystalsUrine
+Value    : N 
+Normal   : NONE
+
+Parameter: CrystalAmt.Urine
+Value    : N 
+Normal   : NONE
+
+Parameter: WBC,Urine
+Value    : 0 PER HPF
+Normal   : 0–4
+
+Parameter: RBC,Urine
+Value    : 0 PER HPF
+Normal   : 0–3
+
+Parameter: EpithelialCells,Ur
+Value    : F 
+Normal   : FEW
+
+Parameter: Cast,Hyaline,Urine
+Value    : N PER LPF
+Normal   : 0–4
+
+Parameter: Cast,Granular,Urin
+Value    : N PER LPF
+Normal   : 0–1
+
+Parameter: Cast, RBC,Urine
+Value    : N PER LPF
+Normal   : 0–1
+
+Parameter: Bacteria,Urine
+Value    : N 
+Normal   : FEW
+
+Comments: ****************************************************************************
+
+Condition: NOTE: Significant quantities of epithelial cells will
+Condition: be identified if they are not squamous cell types.
+
+Report: MISC
+Header: —–* MISCELLANEOUS *——
+
+Parameter: TSH
+Value    : 1 
+Normal   : 0.27–4.2 uIU/mL
+
+Parameter: THYROXINE(T4)
+Value    : 9 
+Normal   : 4.5–12.0 ug/dL
+
+Parameter: T3 UPTAKE
+Value    : 2 
+Normal   : 24.3–39.0%
+
+Parameter: FREE T4 INDEX
+Value    : 2 
+Normal   : 1.1–4.5
+
+Parameter: RPR
+Value    : N 
+Normal   : NON–REACTIVE
+
+Comments: ****************************************************************************
+
+Condition: NOTICE: IF the result of the RPR is reported as reactive with a titer
+Condition: of up to 1:8 please note that this level of reactivity can be caused
+Condition: by other, non–specific constituents and may not be related to syphilis.
+Condition: Confirmation of positive RPRs can only be made via performance of the
+Condition: T.Pallidum confirmation test.Parameter: HGB. A1c(glycohgb)
+Value    : 9 
+Normal   : 4–6%
+
+Parameter: CREAT.URN.TIMED/RAND
+Value    : . 
+Normal   : gms/dL
+
+Parameter: MICROALB/CREAT RATIO
+Value    : 4 
+Normal   : <30mg/gm creat.
+
+Parameter: MICROALBUMIN,RANDOM
+Value    : 0 
+Normal   : <2.9 mg/dL
+
+Comments: ****************************************************************************
+
+Condition: GLYCOHEMOGLOBIN(HgbA1c)Ranges% eAG ranges(mg/dL)* GLUCOSE CONTROL INDEX
+Condition: 
+Condition:  <4–6% <68–126 Non–DiabeticLevel
+Condition:  <6–7% <126–154 DiabeticControl
+Condition:  >8% >183 Additional action suggested
+Condition: *Data adapted from the A1c–DerivedAverageGlucose(ADAG)Study
+Condition: (2006–2008).Estimated average glucose (eAG) values (shown as ranges
+Condition: in the above table) can be reported as individual patient values if
+Condition: requested.Comments: ****************************************************************************
+
+Condition: NOTE: SST tube submitted was inadequately spun.Serum was found to
+Condition: contain RBCs.Certain tests, e.g.Glucose, may be decreased while
+Condition: others e.g.Potassiumor LDH may be elevated.
+
+END OF FILE
